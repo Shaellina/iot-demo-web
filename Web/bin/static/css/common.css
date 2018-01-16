@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body {
+  padding-bottom: 30px;
+  padding-left: 10px;
+}
+
+#wrapper {
+    padding-left: 0;
+}
+
+#page-wrapper {
+	width: 100%;
+	padding: 0;
+	background-color: #fff;
+}
+
